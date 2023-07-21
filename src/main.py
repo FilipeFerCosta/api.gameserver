@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from ssh_util import ssh_connect
+from sshconnection import ssh_connect
 
 
 app = Flask(__name__) # create an instance of Flask class
