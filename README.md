@@ -2,7 +2,7 @@
 
 ### This API will manipulate files and use linux commands. 
 
-Here will be displayed a few important commands
+Here I will be displayed a few important commands
 
 ```console
 pip3 install paramiko
